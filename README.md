@@ -40,3 +40,6 @@ Ensure you have Python 3.x installed.
 
 ```bash
 pip install -r requirements.txt
+```
+
+💡 **For more detailed information and in-depth analysis, please read the [ML_Competition_Report.pdf](ML_Competition_Report.pdf) in the `main` branch.**
